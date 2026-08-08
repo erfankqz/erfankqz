@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Mehdi 👋
 
-<!--
-**erfankqz/erfankqz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Freelance web developer based in Iran, focused on building clean, performant sites for small businesses.
 
-Here are some ideas to get you started:
+## What I do
+- 🎨 Custom WordPress builds (theme development, HTML/CSS/JS → WP conversion)
+- ⚛️ Learning React & Next.js for modern freelance projects
+- 🌐 Bilingual (Persian/English) site builds with RTL support
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured project
+**[MVAnabolic](https://mvanabolic.com)** — sports medicine & physiotherapy business site.
+Built bilingual (Persian RTL / English LTR), dark theme with neon-green accents,
+scroll-triggered animations, custom WordPress theme.
+
+## Currently
+🔨 Building my portfolio site with Next.js
+
+## Reach me
+- 📧 [email protected]
